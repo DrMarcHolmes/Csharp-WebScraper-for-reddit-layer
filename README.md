@@ -1,4 +1,5 @@
-#Web Scrapping 
+#Web Scrapping
+
 https://dev.to/rachelsoderberg/create-a-simple-web-scraper-in-c-1l1m
 https://stackoverflow.com/questions/307688/how-to-download-a-file-from-a-url-in-c
 https://stackoverflow.com/questions/44074121/build-net-core-console-application-to-output-an-exe
@@ -8,6 +9,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.datetime.now?view=netcore-3.1
 https://stackoverflow.com/questions/12500091/datetime-tostring-format-that-can-be-used-in-a-filename-or-extension
 
 #Target Website
+
 https://reddit.com/r/layer
 
 #Files to be webscraped (gotten from chrome via debug mode)
