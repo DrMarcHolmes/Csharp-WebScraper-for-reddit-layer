@@ -1,4 +1,4 @@
-#Web Scrapping
+# Web Scrapping
 
 https://dev.to/rachelsoderberg/create-a-simple-web-scraper-in-c-1l1m
 https://stackoverflow.com/questions/307688/how-to-download-a-file-from-a-url-in-c
@@ -8,7 +8,7 @@ https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-wi
 https://docs.microsoft.com/en-us/dotnet/api/system.datetime.now?view=netcore-3.1
 https://stackoverflow.com/questions/12500091/datetime-tostring-format-that-can-be-used-in-a-filename-or-extension
 
-#Target Website
+# Target Website
 
 https://reddit.com/r/layer
 
@@ -25,6 +25,6 @@ https://i.redd.it/layer/t5_32b7p_Threads_HOT_final.png
 https://i.redd.it/layer/t5_32b7p_Moviedetails_HOT_final.png
 https://i.redd.it/layer/t5_32b7p_Vaporwaveaesthetics_HOT_final.png
 
-#To use
+# To use
 
 in window add a task to be run every 5 minutes using the task scheduler
