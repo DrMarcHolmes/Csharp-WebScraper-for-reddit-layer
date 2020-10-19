@@ -12,7 +12,8 @@ https://stackoverflow.com/questions/12500091/datetime-tostring-format-that-can-b
 
 https://reddit.com/r/layer
 
-#Files to be webscraped (gotten from chrome via debug mode)
+# Files to be webscraped (taken from chrome via debug mode)
+
 https://i.redd.it/layer/t5_32b7p_HOT_final.png
 https://i.redd.it/layer/t5_32b7p_Test%20Canvas,%20Please%20Ignore_HOT_final.png
 https://i.redd.it/layer/t5_32b7p_Me%20IRL_HOT_final.png
